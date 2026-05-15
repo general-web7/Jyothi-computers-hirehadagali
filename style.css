@@ -349,7 +349,8 @@ iframe{
 
 .call a{
     text-decoration: none;
-    transition: 0.3s ease; 
+    transition: 0.3s ease;
+    font-family: Poppins,sans-serif;
 }
 
 .call a:hover{
